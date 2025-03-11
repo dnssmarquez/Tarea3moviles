@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">Tarea3ejercicio2</string>
-    <string name="movie_poster">Movie Poster</string>
-
+    <string name="app_name">Tarea3Ejercicio2</string>
+    <string name="buscar">Buscar</string>
+    <string name="buscar_libro">Buscar libro...</string>
+    <string name="autor">Autor</string>
+    <string name="t_tulo_del_libro">Título del libro</string>
+    <string name="sin_resultados_intente_con_algo_m_s">Sin resultados, intente con algo más.</string>
 </resources>
